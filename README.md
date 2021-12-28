@@ -2,6 +2,9 @@
 
 This repository contains a Structurizr 'Diagram as Text' that represents pi-topOS, available to view via Structurizr Lite to access the DSL.
 
+![]()
+
+<img src="./img/pi-top-4-Container.svg" width="100%" height="300">
 
 ## Useful Links
 * [Language Reference](https://github.com/structurizr/dsl/blob/master/docs/language-reference.md)
@@ -10,6 +13,4 @@ This repository contains a Structurizr 'Diagram as Text' that represents pi-topO
 
 ## TODO
 
-* Implement initial version (mirror internal version)
-* Tidy up
 * [Diagram Review Checklist](https://c4model.com/review/)
