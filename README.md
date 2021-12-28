@@ -2,9 +2,9 @@
 
 This repository contains a Structurizr 'Diagram as Text' that represents pi-topOS, available to view via Structurizr Lite to access the DSL.
 
-![]()
+<img src="./img/pi-top-4-Container.svg" width="100%" height="500">
 
-<img src="./img/pi-top-4-Container.svg" width="100%" height="300">
+<img src="./img/pi-topOS-System-Landscape.svg" width="100%" height="500">
 
 ## Useful Links
 * [Language Reference](https://github.com/structurizr/dsl/blob/master/docs/language-reference.md)
